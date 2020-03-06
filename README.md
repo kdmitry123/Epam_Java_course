@@ -1,1 +1,1 @@
-# Epam_Java_course
+# EpamJavaCouse
